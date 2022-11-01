@@ -1,0 +1,24 @@
+Invitation for Coding Bootcamp in the Canada, Toronto
+
+This professional development course is designed to give students the theoretical background and practical skills required to succeed in the software industry as a Full Stack Java Developer
+
+This course covers Java Programming, back-end applications development with Spring Framework,  and front-end applications development with Angular Framework.  This Course is designed to kick start your career as a Full Stack Java Developer
+
+
+image src="./resources/calendar.webp" width="50px"
+Weekly in-class/virtual training 5 days online access to trainer
+
+image src="./resources/alarm-clock.webp" width="50px"
+Open 6 days a week (9am-6pm)
+
+image src="./resources/laptop.webp" width="50px"
+24x7 access to Lab. Installation of all required software
+
+image src="./resources/team.webp" width="50px"
+Co-op. Work Term placement + Job Referral and Hiring
+
+image src="./resources/innovation.webp" width="50px"
+Have fun in a high energy course
+
+image src="./resources/payment-method.webp" width="50px"
+Flexible Payment Plan. Group Discount
